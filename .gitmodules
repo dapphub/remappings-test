@@ -1,3 +1,6 @@
 [submodule "lib/ds-test"]
 	path = lib/ds-test
 	url = https://github.com/dapphub/ds-test
+[submodule "lib/dappsys-v2"]
+	path = lib/dappsys-v2
+	url = https://github.com/dapp-org/dappsys-v2
