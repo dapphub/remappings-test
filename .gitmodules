@@ -1,3 +1,6 @@
 [submodule "lib/tr0"]
 	path = lib/tr0
 	url = https://github.com/dapphub/tr0
+[submodule "lib/tr1"]
+	path = lib/tr1
+	url = https://github.com/dapphub/tr1
